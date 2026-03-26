@@ -1,7 +1,7 @@
 # CARNOT
 
 Flagship product of The Entropy Program;
-Carnot, is a markdown editor for Windows
+Carnot, is a markdown editor for Windows \
 (This README is written with CARNOT!)
 
 <img width="1600" height="867" alt="image" src="https://github.com/user-attachments/assets/a3c6471e-5bc4-4024-9c2a-b05065684ddf" />
