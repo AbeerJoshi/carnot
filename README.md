@@ -23,23 +23,3 @@ Carnot, is a markdown editor for Windows \
 1. Download `Carnot_1.0.0.msix`
 2. Double-click to install
 3. Launch from Windows Start Menu
-
-## 🛠️ Built With
-
-- Flutter
-- Dart
-
-## 👨‍💻 Author
-
-Abeer Joshi - [@YOURTWITTER](https://twitter.com/yourhandle)
-
-## 📝 License
-
-MIT License - see LICENSE file
-```
-
-## **DONE! ✅**
-
-**Your download link:**
-```
-https://github.com/YOURUSERNAME/carnot/releases/latest
